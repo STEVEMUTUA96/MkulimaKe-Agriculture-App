@@ -1,0 +1,26 @@
+<svg width="98" height="19" viewBox="0 0 98 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_89_2004" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-2" y="-3" width="24" height="24">
+<rect x="-2" y="-3" width="24" height="24" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_89_2004)">
+<path d="M6.85 14.825L10 12.925L13.15 14.85L12.325 11.25L15.1 8.85L11.45 8.525L10 5.125L8.55 8.5L4.9 8.825L7.675 11.25L6.85 14.825ZM3.825 19L5.45 11.975L0 7.25L7.2 6.625L10 0L12.8 6.625L20 7.25L14.55 11.975L16.175 19L10 15.275L3.825 19Z" fill="#1C1B1F"/>
+</g>
+<mask id="mask1_89_2004" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="24" y="-3" width="24" height="24">
+<rect x="24" y="-3" width="24" height="24" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask1_89_2004)">
+<path d="M32.85 14.825L36 12.925L39.15 14.85L38.325 11.25L41.1 8.85L37.45 8.525L36 5.125L34.55 8.5L30.9 8.825L33.675 11.25L32.85 14.825ZM29.825 19L31.45 11.975L26 7.25L33.2 6.625L36 0L38.8 6.625L46 7.25L40.55 11.975L42.175 19L36 15.275L29.825 19Z" fill="#1C1B1F"/>
+</g>
+<mask id="mask2_89_2004" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="50" y="-3" width="24" height="24">
+<rect x="50" y="-3" width="24" height="24" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask2_89_2004)">
+<path d="M58.85 14.825L62 12.925L65.15 14.85L64.325 11.25L67.1 8.85L63.45 8.525L62 5.125L60.55 8.5L56.9 8.825L59.675 11.25L58.85 14.825ZM55.825 19L57.45 11.975L52 7.25L59.2 6.625L62 0L64.8 6.625L72 7.25L66.55 11.975L68.175 19L62 15.275L55.825 19Z" fill="#1C1B1F"/>
+</g>
+<mask id="mask3_89_2004" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="76" y="-3" width="24" height="24">
+<rect x="76" y="-3" width="24" height="24" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask3_89_2004)">
+<path d="M84.85 14.825L88 12.925L91.15 14.85L90.325 11.25L93.1 8.85L89.45 8.525L88 5.125L86.55 8.5L82.9 8.825L85.675 11.25L84.85 14.825ZM81.825 19L83.45 11.975L78 7.25L85.2 6.625L88 0L90.8 6.625L98 7.25L92.55 11.975L94.175 19L88 15.275L81.825 19Z" fill="#1C1B1F"/>
+</g>
+</svg>
